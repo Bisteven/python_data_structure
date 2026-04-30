@@ -263,27 +263,15 @@ Comprehensions de los tres tipos (list, dict, set) combinadas sobre una misma fu
 
 ##  Capturas de ejecución
 
-> Añade aquí las capturas de pantalla de cada reto ejecutado en la terminal.
-> Puedes arrastrarlas directamente al editor de GitHub o usar la sintaxis:
+Inventario: <img width="520" height="95" alt="image" src="https://github.com/user-attachments/assets/f12f214c-a916-42d5-8b54-f99ce3c590b9" />
+Catalogo:  <img width="476" height="207" alt="image" src="https://github.com/user-attachments/assets/f98b9df5-922f-4943-807f-2fc8b1346b9b" />
+Ventas:  <img width="336" height="333" alt="image" src="https://github.com/user-attachments/assets/b881970a-791f-42ca-8adb-df542429c169" />
+Tiendas: <img width="911" height="102" alt="image" src="https://github.com/user-attachments/assets/04462ad4-20f6-4ff4-b65e-f56292f4d951" />
+Comprehensions: <img width="432" height="234" alt="image" src="https://github.com/user-attachments/assets/bbd1ef3e-bed2-42d5-849d-b98fd01495ee" />
 
-```markdown
-![Reto Módulo 1 - Inventario](capturas/modulo1_inventario.png)
-![Reto Módulo 2 - Catálogo](capturas/modulo2_catalogo.png)
-![Reto Módulo 3 - Ventas región](capturas/modulo3_ventas.png)
-![Reto Módulo 4 - Sets tiendas](capturas/modulo4_sets.png)
-![Reto Módulo 5 - Comprehensions](capturas/modulo5_comprehensions.png)
-```
 
----
 
-##  Reflexión personal del aprendizaje
 
-Durante este módulo aprendí que Python ofrece estructuras de datos muy distintas, cada una con un propósito claro:
 
-- Las **listas** son la estructura más flexible pero hay que tener cuidado con las referencias compartidas — el error de `b = a` que modifica ambas fue uno de los más importantes de entender.
-- Las **tuplas** parecían solo "listas inmutables" pero su uso como claves de diccionario y para retornos múltiples de funciones les da un rol propio muy útil.
-- Los **diccionarios** fueron el salto más grande: pasar de acceso por índice a acceso por significado hace el código mucho más legible y mantenible.
-- Los **sets** resolvieron de forma elegante problemas que antes habría hecho con bucles y condiciones: eliminar duplicados, encontrar intersecciones o verificar pertenencia en O(1).
-- Las **comprehensions** fueron el concepto que más cambió mi forma de escribir Python — pasar de 4 líneas (inicializar lista, bucle, condición, append) a una sola expresión legible fue un cambio de mentalidad importante.
 
-El mayor aprendizaje transversal fue entender cuándo usar cada estructura y cuándo la legibilidad importa más que la brevedad — un bucle tradicional con lógica compleja es mejor que una comprehension ilegible.
+
