@@ -78,6 +78,8 @@ def estadisticas(nums):
 minima, maxima, promedio = estadisticas([4,7,2,9,5])
 print(f"min={minima} max={maxima} avg={promedio:.2f}")
 
+#RETO
+
 catalogo = (
     ("El Padrino",        "Francis Ford Coppola", 1972, 9.2),
     ("Inception",         "Christopher Nolan",    2010, 8.8),
